@@ -9,8 +9,6 @@
 ## Технологии
 Веб-разработка: html и CSS
 ---
-## Изображение
----
 ## главная
 ![Снимок экрана 2024-12-03 110020](https://github.com/user-attachments/assets/0c8a7a7e-eeb7-44ef-8b4f-22a8de9f6e54)
 ---
